@@ -1,0 +1,1 @@
+Reads the process memory for Borderlands 2 and reports the ammo remaining for all weapons + grenades.
